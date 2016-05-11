@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>43FB035F-7CC8-4FA8-A43E-5D648C4F47FF</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Demo-mqtt-push</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>20D9812DF6F6C574517AA474E79CDE151D53B237</key>
+		<string>https://github.com/Guou/Demo-mqtt-push.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Demo-mqtt-push.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>20D9812DF6F6C574517AA474E79CDE151D53B237</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Guou/Demo-mqtt-push.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>20D9812DF6F6C574517AA474E79CDE151D53B237</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>20D9812DF6F6C574517AA474E79CDE151D53B237</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Demo-mqtt-push</string>
+		</dict>
+	</array>
+</dict>
+</plist>
